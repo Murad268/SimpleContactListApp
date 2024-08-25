@@ -1,0 +1,14 @@
+C:\Users\TechEvo Computers\Desktop\MySimpleContactApp\MySimpleContactApp\bin\Debug\net8.0\MySimpleContactApp.exe
+C:\Users\TechEvo Computers\Desktop\MySimpleContactApp\MySimpleContactApp\bin\Debug\net8.0\MySimpleContactApp.deps.json
+C:\Users\TechEvo Computers\Desktop\MySimpleContactApp\MySimpleContactApp\bin\Debug\net8.0\MySimpleContactApp.runtimeconfig.json
+C:\Users\TechEvo Computers\Desktop\MySimpleContactApp\MySimpleContactApp\bin\Debug\net8.0\MySimpleContactApp.dll
+C:\Users\TechEvo Computers\Desktop\MySimpleContactApp\MySimpleContactApp\bin\Debug\net8.0\MySimpleContactApp.pdb
+C:\Users\TechEvo Computers\Desktop\MySimpleContactApp\MySimpleContactApp\obj\Debug\net8.0\MySimpleContactApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TechEvo Computers\Desktop\MySimpleContactApp\MySimpleContactApp\obj\Debug\net8.0\MySimpleContactApp.AssemblyInfoInputs.cache
+C:\Users\TechEvo Computers\Desktop\MySimpleContactApp\MySimpleContactApp\obj\Debug\net8.0\MySimpleContactApp.AssemblyInfo.cs
+C:\Users\TechEvo Computers\Desktop\MySimpleContactApp\MySimpleContactApp\obj\Debug\net8.0\MySimpleContactApp.csproj.CoreCompileInputs.cache
+C:\Users\TechEvo Computers\Desktop\MySimpleContactApp\MySimpleContactApp\obj\Debug\net8.0\MySimpleContactApp.dll
+C:\Users\TechEvo Computers\Desktop\MySimpleContactApp\MySimpleContactApp\obj\Debug\net8.0\refint\MySimpleContactApp.dll
+C:\Users\TechEvo Computers\Desktop\MySimpleContactApp\MySimpleContactApp\obj\Debug\net8.0\MySimpleContactApp.pdb
+C:\Users\TechEvo Computers\Desktop\MySimpleContactApp\MySimpleContactApp\obj\Debug\net8.0\MySimpleContactApp.genruntimeconfig.cache
+C:\Users\TechEvo Computers\Desktop\MySimpleContactApp\MySimpleContactApp\obj\Debug\net8.0\ref\MySimpleContactApp.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySimpleContactApp", "MySimpleContactApp\MySimpleContactApp.csproj", "{454F0942-52DB-404F-8240-ED7786FAB949}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{454F0942-52DB-404F-8240-ED7786FAB949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454F0942-52DB-404F-8240-ED7786FAB949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{454F0942-52DB-404F-8240-ED7786FAB949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{454F0942-52DB-404F-8240-ED7786FAB949}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9FB721D-505B-4669-9E1F-EA50246AAE5F}
+	EndGlobalSection
+EndGlobal
