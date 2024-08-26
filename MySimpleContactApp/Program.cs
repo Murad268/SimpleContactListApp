@@ -93,19 +93,20 @@ else
                 {
                     Console.WriteLine($"Kontaktın adı: {willEditedArray[1]} Ya adda dəyişiklik edin, ya entere basaraq davam edin");
                     string newName = Convert.ToString(Console.ReadLine());
-                    if(newName == null)
+
+                    if(string.IsNullOrEmpty(newName))
                     {
                         newName = willEditedArray[1];
                     } 
                     Console.WriteLine($"Kontaktın soyadı: {willEditedArray[2]} Ya soyadda dəyişiklik edin, ya entere basaraq davam edin");
                     string newSurname = Convert.ToString(Console.ReadLine());
-                    if (newSurname == null)
+                    if (string.IsNullOrEmpty(newSurname))
                     {
                         newSurname = willEditedArray[2];
                     }
                     Console.WriteLine($"Kontaktın nömrəsi: {willEditedArray[3]} Ya nömrədə dəyişiklik edin, ya entere basaraq davam edin");
                     string newNumber = Convert.ToString(Console.ReadLine());
-                    if (newNumber == null)
+                    if (string.IsNullOrEmpty(newNumber))
                     {
                         newNumber = willEditedArray[2];
                     }
@@ -176,18 +177,13 @@ else
             Console.WriteLine("Axtarış parametrini daxil edin");
             string prm = Console.ReadLine();
             string[] willFindedArray = { };
-            foreach (var contact in contactList)
-            {
-                if (contact[0] == prm || contact[1] == prm || contact[2] == prm) {
-                    willFindedArray = contact;
-                }
-            }
+          
 
        ;
             bool newCheck = false;
             foreach (var contact in contactList)
             {
-                if (contact[0] == prm || contact[1] == prm || contact[2] == prm)
+                if (contact[0].ToLower().Contains(prm.ToLower()) || contact[1].ToLower().Contains(prm.ToLower()) || contact[2].ToLower().Contains(prm.ToLower()))
                 {
                     willFindedArray = contact;
                     newCheck = true;
